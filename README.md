@@ -4,7 +4,7 @@ Classifies portuguese text comments regarding its polarity (negative, neutral or
 
 Usage:
 
-    python text_classifiers.py
+    python text_classifiers.py -c sgd -n True
 
 ## Repository content:
 * **text_classifiers.py** file:
